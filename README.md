@@ -50,3 +50,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiraio-moe&layout=compact&card_width=445" />
   </a>
 </div>
+
+
+\* Ok, my most used programming languages is biased! I mostly work with C# and Web technologies.
+  I think it's because my repo have a lot of shader file causing them to appear.
+  Damn! Even I'm never write any single shader file.
