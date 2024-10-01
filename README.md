@@ -97,7 +97,9 @@
 ## ⚡ 尺乇匚乇几ㄒ 卂匚ㄒ丨ᐯ丨ㄒㄚ
 
 <!-- Spotify now playing by https://github.com/kittinan/spotify-github-profile -->
-[![kiraio's Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yrktxwpq1oae4xbkdhyjaaawp&cover_image=true&theme=novatorem&show_offline=false&background_color=00DEF5&interchange=false&bar_color=F872AB&bar_color_cover=false)](https://open.spotify.com/user/yrktxwpq1oae4xbkdhyjaaawp?si=d09555cda2804602 "Can you h̴e̴a̴r̴ see my music taste?")  
-<img src="https://github.com/kiraio-moe/kiraio-moe/assets/58289710/29d9eb9e-75cc-410e-a60f-b8378760b6f0" alt="Ram & Rem dancing" title="It's Ram & Rem dancing, baby~" width="10%" />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yrktxwpq1oae4xbkdhyjaaawp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=yrktxwpq1oae4xbkdhyjaaawp&redirect=true)
+<img src="https://github.com/kiraio-moe/kiraio-moe/assets/58289710/29d9eb9e-75cc-410e-a60f-b8378760b6f0" alt="Ram & Rem dancing" title="It's Ram & Rem dancing, baby~" width="15%" />
+
+[![Join our Discord server!](https://invidget.switchblade.xyz/eDJQ2n7uSK)](https://discord.gg/eDJQ2n7uSK)
 
 </div>
